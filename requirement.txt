@@ -1,0 +1,8 @@
+Django==5.2.6
+django-admin==5.2.6
+djangorestframewor==3.14.0
+django-cors-headers==4.8.0
+django-environ==0.12.0
+drf-yasg==1.21.10
+celery==5.5.3
+rabbitmq-server==4.1.4
